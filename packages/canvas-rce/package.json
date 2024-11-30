@@ -115,7 +115,7 @@
     "get-cookie": "1",
     "i18n-js": "^3",
     "i18nliner": "~0.2.0",
-    "isomorphic-fetch": "2.2.1",
+    "isomorphic-fetch": "3.0.0",
     "jquery": "https://github.com/instructure/jquery.git#1.7.2-with-AMD-and-CommonJS",
     "js-beautify": "1",
     "keycode": "^2",
