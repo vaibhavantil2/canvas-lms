@@ -141,7 +141,7 @@
     "parse-decimal-number": "1.0.0",
     "parse-link-header": "^1",
     "prop-types": "^15",
-    "qs": "^6.6.0",
+    "qs": "^6.14.1",
     "react": "^16.13.1",
     "react-apollo": "~3.0.1",
     "react-dnd": "^2.5.2",
