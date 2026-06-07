@@ -60,7 +60,7 @@
     "@instructure/canvas-media": ">=1.0.0",
     "@instructure/canvas-theme": "7",
     "@instructure/k5uploader": ">=1",
-    "@instructure/media-capture": "~8.0.1-rc.11",
+    "@instructure/media-capture": "~8.1.0",
     "@instructure/ui-a11y-content": "7",
     "@instructure/ui-alerts": "7",
     "@instructure/ui-avatar": "7",
@@ -68,7 +68,7 @@
     "@instructure/ui-billboard": "7",
     "@instructure/ui-buttons": "7",
     "@instructure/ui-checkbox": "7",
-    "@instructure/ui-code-editor": "7.3.0",
+    "@instructure/ui-code-editor": "10.21.0",
     "@instructure/ui-color-utils": "7",
     "@instructure/ui-file-drop": "7",
     "@instructure/ui-flex": "7",
@@ -119,7 +119,7 @@
     "jquery": "https://github.com/instructure/jquery.git#1.7.2-with-AMD-and-CommonJS",
     "js-beautify": "1",
     "keycode": "^2",
-    "lodash": "^4",
+    "lodash": "^4.17.23",
     "minimatch": "~3.0.4",
     "prop-types": "^15",
     "react": "^0.14.8 || ^15.0.0 || ^16",
@@ -132,7 +132,7 @@
     "redux-thunk": "^2",
     "scroll-into-view": "https://github.com/bkirkby/scroll-into-view.git#588b0ced98eeecf84e6fb2074aa076e80b7cffab",
     "tinymce": "^5",
-    "tinymce-a11y-checker": "^3.0.0"
+    "tinymce-a11y-checker": "^4.1.4"
   },
   "devDependencies": {
     "@babel/cli": "^7",
